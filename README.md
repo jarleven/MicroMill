@@ -27,3 +27,7 @@ https://www.aliexpress.com/item/32832185914.html?spm=a2g0o.detail.1000060.1.7a2c
 
 
 https://www.stepcraft.us/shop/product/20981-automatic-tool-changer-atc-for-mm-1000-amb-kress-spindles-50?search=tool+changer
+
+
+Ball screws and bearings
+https://www.youtube.com/watch?v=WoPPwGxgWEY

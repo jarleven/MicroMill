@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=wtuG_DyjhmE
 
 https://www.aliexpress.com/item/32832185914.html?spm=a2g0o.detail.1000060.1.7a2c41d9lu7KFK&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.128551.0&scm_id=1007.13339.128551.0&scm-url=1007.13339.128551.0&pvid=4d18b942-e983-48f9-8b43-ef827178fbee
 
+https://www.sorotec.de/shop/Spindles/hf-spindle-aut-tool-change/mechatron-spindles-atc/tool-change-adapters/
 
 https://www.stepcraft.us/shop/product/20981-automatic-tool-changer-atc-for-mm-1000-amb-kress-spindles-50?search=tool+changer
 

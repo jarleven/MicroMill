@@ -1,10 +1,17 @@
 # MicroMill for PCB manufacturing
 
+
+### CNC 3018 Pro (Bangggod)
+
+Endstops 
+* https://github.com/gnea/grbl/issues/645
+
+
 PCB CNC machine howto
 
 GRBL and Linux CNC
 
-### This will focus on the Mini CNC from Banggood Aliexpress.
+### This will focus on the Mini CNC from Banggood / Aliexpress.
 2417 3 Axis Mini DIY CNC Router Wood Craving Engraving Cutting Milling Desktop Engraver Machine 240x170x65mm
 
 https://www.banggood.com/2417-3-Axis-Mini-DIY-CNC-Router-Wood-Craving-Engraving-Cutting-Milling-Desktop-Engraver-Machine-240x170x65mm-p-1209292.html

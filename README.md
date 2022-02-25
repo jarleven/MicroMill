@@ -5,6 +5,7 @@
 
 Endstops 
 * https://github.com/gnea/grbl/issues/645
+* https://samueldperry.com/2020/09/01/cnc-3018-pro-router-adding-endstops/comment-page-1/
 
 
 PCB CNC machine howto
